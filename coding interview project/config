@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa5gldfaogwg2dppg77usbx565mi2yjhqa3yivbedcp5bnshben5ja
+fingerprint=30:6f:ad:b6:56:1b:dd:94:bb:0e:fb:c1:ce:c1:41:d0
+tenancy=ocid1.tenancy.oc1..aaaaaaaagk4cqz7rtrolprzvnuufobdnxnro76jw5atqvtwdzttwytewsx2q
+region=ap-mumbai-1
+key_file=C:\Users\Sharukesh\.oci\oci_api_key.pem
